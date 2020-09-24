@@ -1,8 +1,7 @@
 <h1 align="center" style="font-weight:bold;font-size:32px;">Word Web</h1>
 
 <div align="center">
-  <div style="width:100%;height:0;padding-bottom:63%;position:relative;"><iframe src="https://giphy.com/embed/l0IykOsxLECVejOzm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
-  <br>
+  <IMG SRC="https://media.giphy.com/media/l0IykOsxLECVejOzm/giphy.gif">
   <p id="desc" style="font-style:italic;text-align:center;">This project creates a random web from words entered.
   </p>
 </div>
